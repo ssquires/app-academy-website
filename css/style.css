@@ -2210,7 +2210,17 @@ ul.callbacks_tabs.callbacks2_tabs a:after {
 		margin: 15px 0px 0px 85px;
 	}
   }
-  @media (max-width:768px) {
+  @media (max-width:767px) {
+      
+    .col-sm-4 {
+        width: 50%;
+        margin: 0;
+    }
+      
+      .ggrids {
+        float: left;
+          padding-left: 0px;
+      }
 
 	.navbar-nav>li>a {
 		margin: 0 0px;
