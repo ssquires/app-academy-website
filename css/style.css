@@ -3537,3 +3537,20 @@ div#faq {
 /* //FAQ Section */
 
 
+/* APPLY Section */
+
+#application-link {
+	background-color: #29A9CC;
+	color: white;
+	margin-top: -15px;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+#oe-link {
+	background-color: #29A9CC;
+	color: white;
+/*	padding: 2px;
+*/	padding-left: 3px;
+	padding-right: 3px;
+}
