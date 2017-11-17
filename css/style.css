@@ -1736,11 +1736,15 @@ ul.callbacks_tabs.callbacks2_tabs a:after {
     min-height: 725px;
 }
 .slider2{
-	background:url(../images/studentGameShowcase.jpg) no-repeat 0px 0px;
+	background:url(../images/seniorsLaKretz2.jpg) no-repeat 0px 0px;
 	background-size:cover;
 }
 .slider3{
-	background:url(../images/classOf2016.jpg) no-repeat 0px 0px;
+	background:url(../images/sophomoresSpokeo.jpg) no-repeat 0px 0px;
+	background-size:cover;
+} 
+.slider4{
+	background:url(../images/seniors2017.JPG) no-repeat 0px 0px;
 	background-size:cover;
 } 
  
@@ -3507,10 +3511,10 @@ div#faq {
 	text-align:center;
 	padding-top:100px;
     padding-bottom: 50px;
-	background-color:white;
+	background-color:#000;
 }
 .faq h3{
-	color: #000;
+	color: #FFF;
 	font-size: 50px;
 }
 
@@ -3532,6 +3536,7 @@ div#faq {
 .faq p {
     width: 90%;
     text-align: left;
+    color: #FFF;
 }
 
 /* //FAQ Section */
